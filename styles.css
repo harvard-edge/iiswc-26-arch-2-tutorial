@@ -285,7 +285,7 @@ img {
 .keynote .time,.design .time {
   border-left-color:var(--red)
 }
-.evaluation .time,.orchestration .time {
+.evaluation .time,.orchestration .time,.kernel .time {
   border-left-color:#6e8dae
 }
 .keynote {
